@@ -1,6 +1,7 @@
-Class 11
+# Class 11
 
-Group Members:
+### Group Members:
+
 Felipe de Quadros - RA: 422101668
 
 Gabriel Gustavo Araujo - RA: 2221107585

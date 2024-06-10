@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851835275577",
+    "project_id": "devcurso1-6e2d8",
+    "storage_bucket": "devcurso1-6e2d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851835275577:android:07fe154ad92e9c7f8ac0e8",
+        "android_client_info": {
+          "package_name": "com.meuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM9ibsc25yVcxMkcBHq2lDHyJVGtXqbDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

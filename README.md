@@ -1,4 +1,13 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Class 11
+
+Group Members:
+Felipe de Quadros - RA: 422101668
+Gabriel Gustavo Araujo - RA: 2221107585
+Gisele da Silva Andrade - RA: 421103120
+Lucas Oliveira Silva - RA: 424104703
+Pedro Henrique Lopes - RA: 423203626
+Tayline Coutinho - RA: 421103197
+Vitor Paulo da Silva - RA: 423203626
 
 # Getting Started
 
